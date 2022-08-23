@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vladyslav
-- 👀 I’m interested in python
+- 👀 I’m interested python
 - 🌱 I’m currently learning in college
 :)
